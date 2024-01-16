@@ -1,0 +1,5 @@
+__pycache__
+*.jpg
+.venv/
+bird_or_not/
+.ipynb_checkpoints/
